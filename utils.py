@@ -1,7 +1,7 @@
 class Utils:
     def reversed(number):
         if isinstance(number, int):
-            return str(number)[::-1]
+            return int(str(number)[::-1])
         else:
             raise ValueError("Please input an integer")
 
