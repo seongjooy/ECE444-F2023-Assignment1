@@ -1,1 +1,1 @@
-print("Hello World\nSeong Joo Yoon")
+print("Hello World\nSeongJooYoon\n4 years at UofT")
