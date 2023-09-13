@@ -7,6 +7,6 @@ class Utils:
 
     def formatter(number):
         if isinstance(number, int):
-            return [bin(number), oct(number)] 
+            return bin(number), oct(number)
         else:
             raise ValueError("Please input an integer")
