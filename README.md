@@ -12,6 +12,5 @@ Activity 3<br>Screenshot of resolving issue<br>
 Activity 4<br>Screenshot of commits regarding the addition of utils.py and utils_tests.py<br>
 <img width="666" alt="Screenshot 2023-09-13 at 5 07 07 PM" src="https://github.com/seongjooy/ECE444-F2023-Assignment1/assets/66128818/777815e4-dea3-4103-8b61-586059b7cb87">
 
-Activity 5<br>Screenshot of output of rebasing branches develop and rebase<br>
-<img width="602" alt="Screenshot 2023-09-13 at 5 37 57 PM" src="https://github.com/seongjooy/ECE444-F2023-Assignment1/assets/66128818/33a7585e-69bc-4b8d-8eff-a45bc3751301">
-<img width="498" alt="Screenshot 2023-09-13 at 5 36 40 PM" src="https://github.com/seongjooy/ECE444-F2023-Assignment1/assets/66128818/92e58927-bb5b-46a9-ab2c-66e45df57742">
+Activity 5<br>Screenshot of output of rebasing branches develop and rebase: rebased onto develop branch<br>
+<img width="617" alt="Screenshot 2023-09-13 at 5 42 39 PM" src="https://github.com/seongjooy/ECE444-F2023-Assignment1/assets/66128818/feb6356d-7ede-416c-bbeb-e10ea93dd691">
